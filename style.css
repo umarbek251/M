@@ -1,0 +1,42 @@
+ul{
+    list-style-type: none;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    background-color: #333;
+}
+li{
+    width: 25%;
+    float: left;
+}
+li a{
+display: block;
+color: white;
+text-decoration: none;
+text-align: center;
+padding: 16px;
+}
+li a:hover{
+background-color: #403d3d;
+transition: 200ms;
+}
+.car{
+    background-color: green;
+    transition: 200ms;
+}
+body{
+    margin: auto;
+    background-color: orange;
+}
+.banner{
+    text-align:center;
+}
+.banner2{
+    text-align: center;
+}
+.banner2{
+    text-align: center;
+}
+.box{
+    text-align: center;
+}
